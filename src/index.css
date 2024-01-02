@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.aj{
+  color:red;
+}
+.ajay:hover{
+  background-color: green;
+  color: white;
+}
+.ajay{
+  border-radius: 10px;
+}
+.satya{
+  border-radius: 10px;
+}
+h1{
+  text-shadow: 1px 1px;
+}
+h3{
+  padding: 5px;
+}
